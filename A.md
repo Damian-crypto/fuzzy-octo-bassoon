@@ -5,3 +5,7 @@ This is the 2nd line added by Chamel.
 This is the 3rd line added by Damian.
 This is the 4th line added by Damian.
 This is the 5th line added by Damian.
+This is the 6th line added by Damian.
+This is the 7th line added by Damian.
+This is the 8th line added by Damian.
+This is the 9th line added by Damian.
